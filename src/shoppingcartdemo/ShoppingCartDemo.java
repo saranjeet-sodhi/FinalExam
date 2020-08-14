@@ -22,7 +22,7 @@ public class ShoppingCartDemo {
         Cart cart = new Cart( );
         cart.addProduct( new Product( "shirt" , 50 ) );
         cart.addProduct( new Product( "pants" , 60 ) );
-        cart.addProduct( new Product( "shoes" , 90 ) );  //Adding another product to the cart
+        cart.addProduct( new Product( "shoes" , 99 ) );  //Adding another product to the cart
         
         
        
